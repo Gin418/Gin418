@@ -29,6 +29,11 @@
 
 ---
 
+## 💼 项目经历
+- [CodeMate](http://www.gin418.online)
+
+---
+
 ## 📫 联系方式
 - 📧 邮箱：x13676567286@163.com  
 - 🌐 GitHub：[Gin418](https://github.com/Gin418)  
@@ -46,7 +51,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 **Gin418/Gin418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 💼 项目经历
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
