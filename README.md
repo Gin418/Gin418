@@ -30,7 +30,7 @@
 ---
 
 ## 💼 项目经历
-- [CodeMate](http://www.gin418.online)
+- 面向程序员的高效开发工具：[CodeMate](http://www.gin418.online)
 
 ---
 
