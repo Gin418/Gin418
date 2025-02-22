@@ -3,12 +3,12 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
 
-- 🌱 I have recently been studying **data structure and algorithm**
+- 🌱 Don't give up easily, keep going, you can see a better scenery
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,vue,js,idea,github,md,mysql,redis,docker,sublime,vscode,powershell,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,vue,react,js,spring,mysql,redis,elasticsearch,rabbitmq,nginx,docker,powershell,linux,git,md,sublime,idea,vscode" />
   </a>
 </p>
 
