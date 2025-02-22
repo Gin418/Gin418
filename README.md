@@ -4,8 +4,13 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
 
 - 🌱 I have recently been studying **data structure and algorithm**
-  
-- 👨‍💻 [![wakatime](https://wakatime.com/badge/user/a228c760-7940-48c2-a004-cb86b5a38fbf.svg)](https://wakatime.com/@a228c760-7940-48c2-a004-cb86b5a38fbf)
+
+## 💼 个人开源项目
+- 面向程序员的高效开发工具：[CodeMate](http://www.gin418.online)
+
+## 年度汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Gin418&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gin418&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -13,17 +18,6 @@
     <img src="https://skillicons.dev/icons?i=java,cpp,python,vue,js,idea,github,md,mysql,redis,docker,sublime,vscode,powershell,linux,nginx" />
   </a>
 </p>
-
----
-
-## 💼 项目经历
-- 面向程序员的高效开发工具：[CodeMate](http://www.gin418.online)
-
----
-
-## 今年汇总 ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Gin418&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gin418&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## 📫 联系方式
 - 📧 邮箱：x13676567286@163.com  
