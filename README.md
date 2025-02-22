@@ -7,11 +7,6 @@
   
 - 👨‍💻 [![wakatime](https://wakatime.com/badge/user/a228c760-7940-48c2-a004-cb86b5a38fbf.svg)](https://wakatime.com/@a228c760-7940-48c2-a004-cb86b5a38fbf)
 
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Gin418&show_icons=true&theme=radical)
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Gin418&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gin418&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
-<!-- ![leikooo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gin418\&layout=compact&theme=radical) -->
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -25,6 +20,10 @@
 - 面向程序员的高效开发工具：[CodeMate](http://www.gin418.online)
 
 ---
+
+## 今年汇总 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Gin418&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gin418&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ## 📫 联系方式
 - 📧 邮箱：x13676567286@163.com  
